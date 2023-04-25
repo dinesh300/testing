@@ -5,7 +5,7 @@ public class FirstJob {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		System.out.println("Successfully Installed");
+		System.out.println("Automatic build Successfully Installed");
 	}
 
 }
